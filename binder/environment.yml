@@ -3,4 +3,4 @@ channels:
 dependencies:
 # Jupyter
 - jupyterlab=3
-- nodejs=11
+- nodejs=12
