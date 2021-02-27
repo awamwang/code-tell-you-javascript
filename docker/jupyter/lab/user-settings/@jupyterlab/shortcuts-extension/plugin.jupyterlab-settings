@@ -1,0 +1,30 @@
+{
+  "notebook:move-cells-down-down": {
+    "command": "notebook:move-cell-down",
+    "keys": ["Alt J"],
+    "selector": ".jp-Notebook:focus",
+    "title": "Move Cells Down",
+    "category": "Notebook Cell Operations"
+  },
+  "notebook:move-cells-down-up": {
+    "command": "notebook:move-cell-up",
+    "keys": ["Alt K"],
+    "selector": ".jp-Notebook:focus",
+    "title": "Move Cells Down",
+    "category": "Notebook Cell Operations"
+  },
+  "notebook:enable-output-scrolling": {
+    "command": "notebook:enable-output-scrolling",
+    "keys": ["S"],
+    "selector": ".jp-Notebook:focus",
+    "title": "Enable output scrolling",
+    "category": "Notebook Cell Operations"
+  },
+  "notebook:disable-output-scrolling": {
+    "command": "notebook:disable-output-scrolling",
+    "keys": ["Alt S"],
+    "selector": ".jp-Notebook:focus",
+    "title": "Enable output scrolling",
+    "category": "Notebook Cell Operations"
+  }
+}
