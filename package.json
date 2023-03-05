@@ -31,7 +31,7 @@
     }
   },
   "devDependencies": {
-    "commitizen": "^4.2.1",
+    "commitizen": "^4.3.0",
     "recursive-readdir-async": "^1.1.8"
   },
   "dependencies": {
